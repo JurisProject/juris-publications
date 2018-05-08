@@ -1,6 +1,23 @@
 ## The Juris Token \(JRS\)
 
-The Juris Protocol will use a proprietary blockchain based token \(JRS\) to incentivize developers and Jurists to be involved and improve the system. The use of this "tokenization" of resources allows us to provide the Protocol as an open source project. But with the boom of ICOs and tokenized projects, it is worth addressing the relevance of JRS in detail.
+The Juris Protocol will use a proprietary blockchain based security token \(JRS\) to incentivize developers and Jurists to be involved and improve the system. The use of this "tokenization" of resources allows us to provide the Protocol as an open source project.
+
+#### Tokenization
+
+> "It's not about Bitcoin, it's about blockchain"
+
+Tokenization is not a new concept. "Shares" of a company are simply tokens representing fractional of ownership of that company. You give the company money, they give you "shares." They used to be literal pieces of paper in a folder somewhere. Now all the stock markets are digital. And those shares come with certain rights -- voting, profit sharing, etc. 
+
+The Bitcoin whitepaper brought us the first prominent example of blockchain technology in use. Regardless of one's feeling about Bitcoin as a currency or project, it has proved that blockchain technology is -- at the very least -- aptly used to build a functional *value* layer. Using tokens as "shares" to distribute the value captured in a system. Again, nothing new, these are stocks.
+
+The confusion increases because blockchain is *so* good at digitizing this kind of system that it allows a fluidity of shares that the stock market system does not allow. When this happens tokens begin to feel more like money than like stocks. Blockchain projects already exist in which we can use tokens to "pay" for things. This has given rise to the debate, among founders, investors, and regulating bodies alike, regarding the notion of a "utility token." A token that is more akin to frequent flier miles than a stock.
+
+#### Tokenization
+
+The distinction matters here because reward points are regulated differently than stocks. 
+
+
+#### Incentivisation
 
 #### Compatibility
 
