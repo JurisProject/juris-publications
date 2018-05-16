@@ -36,7 +36,7 @@ One of the most critical pieces of evidence provided to the Jurists will be the 
 
 **From the Jurists’ perspective:** This keeps trivial matters off the docket.
 
-**How it works \(figure 9.1\):** The incorporation of the Juris CDK allows the protocol to alter the outcome of a smart contract. Through the Juris dashboard, the parties to the contract have access a package of self mediation tools, which provide for the implementation of basic operations to designate a different outcome for the smart contract: void the contract, give all assets to party A, split assets evenly, etc. Once and outcome is selected, the details are incorporated into a new resolution smart contract which is uploaded to the blockchain, and executed. These tools will be open source and free.![](/assets/IMG_0061.jpg)_figure 9.1_
+**How it works \(figure 9.1\):** The incorporation of the Juris CDK allows the protocol to alter the outcome of a smart contract. Through the Juris dashboard, the parties to the contract have access a package of self mediation tools, which provide for the implementation of basic operations to designate a different outcome for the smart contract: void the contract, give all assets to party A, split assets evenly, etc. Once and outcome is selected, the details are incorporated into a new resolution smart contract which is uploaded to the blockchain, and executed. These tools will be open source and free.![](assets/IMG_0061.jpg)_figure 9.1_
 
 #### SNAP \(Simple Neutral Arbitrator Poll\) Judgement
 
@@ -66,7 +66,7 @@ During opinion composition, all Jurists retain access to all case briefs, eviden
 
 With the submission of the Final Opinion, communication between all participants ceases, and the Final Opinions from both Consensus Groups are delivered to all parties to the contract along with a breakdown of the final voting split. All voting data, discussion records, and opinions are additionally attached to the contract recorded in case of further escalation.
 
-At this point the disputing parties are again given access to the CDK resolution tools to implement an agreed upon dispute solution.![](/assets/IMG_0062.jpg)_figure 9.2_
+At this point the disputing parties are again given access to the CDK resolution tools to implement an agreed upon dispute solution.![](assets/IMG_0062.jpg)_figure 9.2_
 
 #### PANEL \(Peremptory Agreement for Neutral Expert Litigation\) Judgement
 
