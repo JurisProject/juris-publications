@@ -1,4 +1,4 @@
-## The Juris Token \(JRS\)
+# Tokenization & The Juris Token \(JRS\)
 
 The Juris Protocol will use a proprietary blockchain based security token \(JRS\) to incentivize developers and Jurists to be involved and to improve the system. The use of this "tokenization" of resources allows us to provide the Protocol as an open source project. The goal of the JRS token is to capture the value inherent in a dispute resolution system, and to concretely distribute that value to the builders, the jurists, and the Juris community. With such a system in place The Juris Foundation will be able to focus on its mission to provide fair and just dispute resolution to the world... and not on profit motives.
 
@@ -43,4 +43,3 @@ Invitations to take part in SNAP judgements as a Jurist are open to all register
 As a Jurist, an investor, or a community member, the JRS token will represent your share of the value captured by the Juris Protocol, and your "stake" in that system. In this way JRS is most like a share of stock, earned by being part of the company.
 
 JRS function as security will be of increasing importance and value as Juris Protocol, and Juris Foundation governance evolves to a "Proof of Stake" model for community input on future development and policy. [More in the "Governance" section.](/governance.md)
-
