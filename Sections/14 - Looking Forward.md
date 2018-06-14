@@ -10,7 +10,7 @@ First, there is great strength in the "first mover" advantage, and only more-so 
 
 #### The Jurist Repchain
 
-In this context, the Repchain is potentially more important for the persistence of the Juris Protocol, and the Juris Platform, than simply being the first to move. Stack Overflow was not the first place to talk about software, and Github was not the first place to distribute source code. But they are the dominant platforms today because they were a good place to develop, exhibit, and leverage a good reputation. And that reputation is only tangentially portable to other networks. This is the Juris Platform's long term strength. Though most of the utility will be derived from open source software, the Juris Foundation's implementation will continue to thrive because of the power of the Proof of Judgement-based reputation system -- a novel innovation.
+In this context, the Repchain is potentially more important for the persistence of the Juris Protocol, and the Juris Platform, than simply being the first to move. Stack Overflow was not the first place to talk about software, and Github was not the first place to distribute source code. But they are the dominant platforms today because they were a good place to develop, exhibit, and leverage a good reputation. And that reputation is only tangentially portable to other networks. This is the Juris Platform's long term strength. Though most of the utility will be derived from open source software, the Juris Foundation's implementation will continue to thrive because of the power of the Proof of Judgment-based reputation system -- a novel innovation.
 
 #### Jurists
 
