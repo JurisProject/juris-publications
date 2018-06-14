@@ -2,15 +2,15 @@
 
 #### Dispute Triggers
 
-All disputes will be triggered manually, and the ability to trigger a dispute will be limited to a direct party to the contract, or other parties to which the ability has been delegated via the CDK at the time of contract creation. Dispute triggers will be accessible only to these parties through the CDK. The Juris Foundation, its agents, arbitrators, and Jurists are unable to trigger a dispute on behalf of another party.
+All disputes will be triggered manually, and the ability to trigger a dispute will be limited to a direct party to the contract, or other parties to which the ability has been delegated via the Juris Tools at the time of contract creation. Dispute triggers will be accessible only to these parties through the Tools. The Juris Foundation, Juris, or its agents, arbitrators, and Jurists are unable to trigger a dispute on behalf of another party.
 
 #### Contract Freeze
 
-The moment that a dispute is triggered the CDK code freezes smart contract processes. The contract code will not continue to run. If the contract is a public contract, or a contract with a massive number of parties, and a previously agreed upon dispute threshold is reached, processes are frozen and additional parties are unable to access the contract until the disputes are resolved.
+The moment that a dispute is triggered the Juris code built in to the contract freezes smart contract processes. The contract code will not continue to run. If the contract is a public contract, or a contract with a massive number of parties, and a previously agreed upon dispute threshold is reached, processes are frozen and additional parties are unable to access the contract until the disputes are resolved.
 
 #### Evidence, Arguments, and Discussion
 
-When a dispute is triggered, the triggering party will be required by the Juris platform to include itemized claims, their desired resolution, and their initial arguments for that resolution \(together, the "Formal Complaint"\). Additionally, they will be able to provide any details or evidence regarding the case that may fall outside of the smart contract logs \("Supplementary Evidence"\). All of these details will be attached to the smart contract through the CDK, and will follow the case through the Juris system.
+When a dispute is triggered, the triggering party will be required by the Juris platform to include itemized claims, their desired resolution, and their initial arguments for that resolution \(together, the "Formal Complaint"\). Additionally, they will be able to provide any details or evidence regarding the case that may fall outside of the smart contract logs \("Supplementary Evidence"\). All of these details will be attached to the smart contract through the Juris Code, and will follow the case through the Juris system.
 
 The counter-party to the dispute will have a designated amount of time to respond to the claims of the triggering party. They will be required to provide a direct response to each item of the claim, as well as their initial arguments for their preferred resolution. Here they will also be able to provide any additional details or evidence for their case that may fall outside of the smart contract logs. If there is no response from the counter-party \(and one is required to proceed,\) the system may issue a default judgement in the favor of the other party.
 
@@ -18,11 +18,11 @@ The argument submission process will be locked following the response from the d
 
 #### Holding Wallets
 
-As soon as a Formal Complaint is filed, the CDK code generates a neutral blockchain wallet address into which the funds associated with the contract are moved. The funds can only be released from this wallet via the Juris CDK, and the use of one of the available resolution mechanisms. The neutral wallet address is maintained internally by the CDK code within the smart contract itself and is not known or accessible to contract parties, the Juris Foundation, or Jurists involved at any time.
+As soon as a Formal Complaint is filed, the Juris code generates a neutral blockchain wallet address into which the funds associated with the contract are moved. The funds can only be released from this wallet via Juris, and the use of one of the available resolution mechanisms. Funds cannot be moved manually, and the Juris contract itself is the only entity in possession of the private keys needed to do so. The neutral wallet address is maintained internally by the Juris code within the smart contract itself and is not known or accessible to contract parties, the Juris Foundation, or Jurists involved at any time.
 
 #### Smart Contract Logs \("Hard Evidence"\)
 
-One of the most critical pieces of evidence provided to the Jurists will be the history of logs and transactions associated with the smart contract in question. This is especially true when a bug in the smart contract is what lead to Juris dispute resolution. At the moment that the dispute is initiated the Juris CDK collects and freezes all transaction logs, contract execution logs, contract state, and the contract code itself. These logs will be automatically summarized and made available to Jurists as evidence.
+One of the most critical pieces of evidence provided to the Jurists will be the history of logs and transactions associated with the smart contract in question. This is especially true when a bug in the smart contract is what lead to Juris dispute resolution. At the moment that the dispute is initiated the Juris code collects and freezes all transaction logs, contract execution logs, contract state, and the contract code itself. These logs will be automatically summarized and made available to Jurists as evidence.
 
 ## Resolution Mechanisms
 
@@ -36,7 +36,7 @@ One of the most critical pieces of evidence provided to the Jurists will be the 
 
 **From the Jurists’ perspective:** This keeps trivial matters off the docket.
 
-**How it works \(figure 9.1\):** The incorporation of the Juris CDK allows the protocol to alter the outcome of a smart contract. Through the Juris dashboard, the parties to the contract have access a package of self mediation tools, which provide for the implementation of basic operations to designate a different outcome for the smart contract: void the contract, give all assets to party A, split assets evenly, etc. Once and outcome is selected, the details are incorporated into a new resolution smart contract which is uploaded to the blockchain, and executed. These tools will be open source and free.
+**How it works \(figure 9.1\):** The incorporation of the Juris code allows the protocol to alter the outcome of a smart contract. Through the Juris dashboard, the parties to the contract have access a package of self mediation tools, which provide for the implementation of basic operations to designate a different outcome for the smart contract: void the contract, give all assets to party A, split assets evenly, etc. Once and outcome is selected, the details are incorporated into a new resolution smart contract which is uploaded to the blockchain, and executed. These tools will be open source and free.
 
 /IMG_0061.jpg
 
@@ -70,7 +70,7 @@ During opinion composition, all Jurists retain access to all case briefs, eviden
 
 With the submission of the Final Opinion, communication between all participants ceases, and the Final Opinions from both Consensus Groups are delivered to all parties to the contract along with a breakdown of the final voting split. All voting data, discussion records, and opinions are additionally attached to the contract recorded in case of further escalation.
 
-At this point the disputing parties are again given access to the CDK resolution tools to implement an agreed upon dispute solution.
+At this point the disputing parties are again given access to the Juris resolution tools to implement an agreed upon dispute solution.
 
 /IMG_0062.jpg
 
@@ -94,7 +94,7 @@ _**Arbitration Panel Selection:**_ Based on the domain specialties marked on the
 
 _**Hearing Process:**_ All previous SNAP materials, opinions, evidence, and claims will be made available for review by panel high jurists. The High Jurists will be able to ask any questions of either party, and parties will be required to provide answers \(and may be found in default if they fail to respond.\) If relevant, this may extend as far as the coordination of video-based hearings. At this time, the parties will be allowed, at the discretion of the Jurists, to submit additional evidence, make additional arguments or counter arguments, provide witnesses, and amend previous materials. Any new materials, or communications, will be made available to all other parties at the time of submission.
 
-_**Judgement:**_ At the end of 30 days, \(unless an extension is requested or granted by the panel,\) the High Jurists will render a binding judgement on the facts of the case. Through the Juris dashboard the Jurists will input their decision, and the CDK will unlock the smart contract, and execute the code, automatically enforcing the judgement.
+_**Judgement:**_ At the end of 30 days, \(unless an extension is requested or granted by the panel,\) the High Jurists will render a binding judgement on the facts of the case. Through the Juris dashboard the Jurists will input their decision, and the Juris code will unlock the smart contract, and execute the code, automatically enforcing the judgement.
 
 [^15]: [https://en.wikipedia.org/wiki/Delphi\_method](https://en.wikipedia.org/wiki/Delphi_method)
 [^16]: [https://www.uncitral.org/pdf/english/texts/arbitration/arb-rules/arb-rules.pdf](https://www.uncitral.org/pdf/english/texts/arbitration/arb-rules/arb-rules.pdf)

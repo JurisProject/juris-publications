@@ -1,4 +1,5 @@
-/Cover Image.png
+/assets/Cover Image.png
+
 +++
 
 ### Table of Contents
