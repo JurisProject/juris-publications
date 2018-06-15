@@ -40,7 +40,7 @@ When a dispute is triggered and Jurists are called in, the staked JRS will be al
 _It is additionally technically feasible to require the staking of JRS token for certain Jurist actions within the system, although in the name of simplicity we are inclined to reserve this as an option to pursue if needed, as opposed to a foundational feature._
 
 #### JRS Work Token Functions
-Invitations to take part in SNAP judgements as a Jurist are open to all registered JRS holders worldwide. This ensures the possibility of a wide Jurist pool, and the involvement of only those users with a stake in the protocol. As a utility function the protocol will occasionally check a Jurist's wallet for a non-zero JRS token balance in order to allow certain actions or transactions to proceed. In combination with the reputation system this work token functionality will increase the cost of fraudulent behavior.
+Invitations to take part in SNAP judgments as a Jurist are open to all registered JRS holders worldwide. This ensures the possibility of a wide Jurist pool, and the involvement of only those users with a stake in the protocol. As a utility function the protocol will occasionally check a Jurist's wallet for a non-zero JRS token balance in order to allow certain actions or transactions to proceed. In combination with the reputation system this work token functionality will increase the cost of fraudulent behavior.
 
 _Similar to the above situation, it is technically feasible to use the quantity of work token possessed as means of calibrating the percentage of fees earned by a token holder. Again, we have reserved consideration of this function for future iterations in the event that we find a use case for this form of incentivisation._
 

@@ -26,7 +26,7 @@ One of the most critical pieces of evidence provided to the Jurists will be the 
 
 ## Resolution Mechanisms
 
-#### SELF \(Self-Enforced Library Functions\) Judgement
+#### SELF \(Self-Enforced Library Functions\) judgment
 
 **Problem it solves:** Something has gone wrong with a smart contract, and a dispute has been triggered. All parties to the contract are able to agree what should happen next. This could be caused by a bug, a broken oracle feed, or any other unforeseen event. Whether right away, or after brief negotiation, the parties have a solution and they agree that the solution is fair. But, current smart contract structure does not allow for an adjusted outcome.
 
@@ -62,7 +62,7 @@ Independent Judgments remain hidden from both the disputing parties and other Ju
 
 At this time all participants are made privy to the SNAP’s tally of votes, the tally of evidence selected as justification, and the Independent Opinions, all of which are anonymized. During discussion, Jurists make material contributions to the discussion in the form of: questions posed for other participants, submission of general comments, citations of case history, comments on any item in the Case Brief or supporting materials, written responses to any of the above and to other written responses, and atomic responses \(up/down vote\) to any of the above.
 
-After a designated period the window for discussion is closed, at which point interaction between and among all participants ceases for a period of deliberation. In this time, Jurists have an opportunity to independently review the case details and all additional supporting and discussion materials. After deliberation, each Jurist must cast a final vote, select one or more pieces of supporting evidence, and compose a written summary of their opinion no longer than 500 characters \(collectively, their "Informed Judgement"\). Until the close of the deliberation period, all informed Judgments are hidden from other parties as they are submitted.
+After a designated period the window for discussion is closed, at which point interaction between and among all participants ceases for a period of deliberation. In this time, Jurists have an opportunity to independently review the case details and all additional supporting and discussion materials. After deliberation, each Jurist must cast a final vote, select one or more pieces of supporting evidence, and compose a written summary of their opinion no longer than 500 characters \(collectively, their "Informed judgment"\). Until the close of the deliberation period, all informed Judgments are hidden from other parties as they are submitted.
 
 At the end of the deliberation period, all of the Informed Judgments are closed for modification, and each Jurist is immediately placed into a group of peers \(a “Consensus Group”\) who voted in favor of the same disputing party. Each Consensus Group is firewalled from both the other Consensus Group and from the disputing party. Each group will have a designated amount of time to confer amongst its members and write an opinion on their ruling \(the “Final Opinion”\). The Jurist with the highest reputation within an individual Consensus Group is automatically selected as the leader of their cohort. Optionally, the default lead Jurist may appoint another Jurist within their Consensus Group as the opinion writer.
 

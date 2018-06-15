@@ -6,7 +6,7 @@ The Juris Reputation Blockchain is an evolution of existing systems with signifi
 
 In the digital realm, the problem of reputation has been tackled from many angles, and effective execution has contributed to the success of such platforms as Reddit and Stack Overflow. In real world academic and professional context, we handle the notion of reputation by issuing credentials like degrees or certificates. We track notable publications, awards, or recommendations, and we award higher degrees. In the context of justice and the law, there already exists a well worn hierarchy of certification, experience, and reputation. There are certain bars to be cleared before the practice of law is allowed, with even further hurdles to become a judge and progress from there. Because of this pre-existing system, legal reputation is an ideal first case scenario for a bespoke reputation chain implementation. We will be able to use observations regarding the movement of participants through the legal hierarchy to craft our own system, taking into account the inevitable real world variables like certification.
 
-#### Proof of Judgement
+#### Proof of judgment
 
 If Juris is to be the go-to adjudication mechanism for smart contracts, parties must have confidence that their cases are arbitrated fairly by reputable and experienced individuals. The system must allow for the on-boarding and advancement of new Jurists. But, inexperienced input on cases must not result in an unfair outcome. Additionally, in order to resist attack, the system must require a minimum demonstration of experience for a Jurist to have material impact on case outcome.
 
@@ -100,8 +100,8 @@ Earning Rep keeps a Jurist in good standing and earning a lot of Rep makes a Jur
 
 SNAP is structured to provide numerous opportunity for:
 
-**\(1\) **Jurists to demonstrate good judgement, and  
-**\(2\)** Jurists to implicitly or explicitly endorse the judgement of other Jurists.
+**\(1\) **Jurists to demonstrate good judgment, and  
+**\(2\)** Jurists to implicitly or explicitly endorse the judgment of other Jurists.
 
 #### Accounting for the Basics
 
