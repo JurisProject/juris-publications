@@ -2,7 +2,7 @@
 
 #### Defensibility
 
-Before you decide to commit your time to working on an open source project, or commit to stockpiling a utility token behind that project, it is certainly worth discussing the long term prospects. In the blockchain space, every good idea has lots clones and forking iterations. So, why is Juris going to win in the long term?
+Before you decide to commit your time to working on an open source project, or commit to stockpiling a utility token behind that project, it is certainly worth discussing the long term prospects. In the blockchain space, every good idea has lots of clones and forking iterations. So, why is Juris going to win in the long term?
 
 #### First Mover Advantage
 
@@ -30,5 +30,5 @@ Activity on the Juris protocol, and associated reputation chains, would amount t
 
 In preparation for a trial, lawyers will often 'war game' a case. The art of trial law is less in the details and the evidence, and more in the way a story is presented to a jury -- there's a reason that "courtroom drama" is a consistently popular television and movie genre. And it's not because evidence is so interesting. Mock trial and jury selection companies make a pretty penny providing services to aid in this version of trial preparation. Lawyers do their best to use these tools to test different variables in their story, and how to best select a jury to hear that story. Yet these "war games" are often slow, expensive, inaccessible to weaker parties, and still provide data of limited statistical relevance.
 
-In this context, with minimal repurposing, the Juris Platform could provide a solution. The SNAP could be used to test different arguments and possible presentation of trial facts on a scale larger by factors when compared to what a mock trail company might provide. And at a greatly reduced price. What's more, the system could, by filtering for novice Jurists with no previous qualifications, approximate the input of an uninformed jury. This would create increased opportunity for novices to gain reputation in the system, while providing trial lawyers with a testing ground providing data from both professionals \(other lawyers\), and novices \(those peers that would make up a jury.\)
+In this context, with minimal repurposing, the Juris Platform could provide a solution. The SNAP could be used to test different arguments and possible presentation of trial facts on a scale larger by factors when compared to what a mock trail company might provide. And at a greatly reduced price. What's more, the system could, by filtering for novice Jurists with no previous qualifications, approximate the input of an uninformed jury. This would create increased opportunity for novices to gain reputation in the system, while providing trial lawyers with a testing ground providing data from both professionals \(other lawyers\), and novices \(those peers that would make up a jury\).
 

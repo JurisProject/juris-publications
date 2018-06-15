@@ -14,7 +14,7 @@ Ziggy outputs the right track and lets the service know. They send the fixed Mp3
 
 #### 100k Twitter Followers?
 
-Alfred, an aspiring London comedian, is looking to drastically grow his small presence on Twitter to reach new audiences. He currently has around 20k followers and dreams of hitting the low six figures. On CoinLancer[^11], a popular Ethereum-based freelancing marketplace, he finds Barbara: a self-proclaimed social media guru in Chicago. Barbara advertises that for 4 ETH she can grow anyone's Twitter follower count by 100k followers within 30 days. Alfred's sold: the price per follower sounds much better than any other offer he's seen. CoinLancer’s system helps Alfred enter into a smart contract with Barbara, set to programmatically test Alfred's follower count in 30 days.
+Alfred, an aspiring London comedian, is looking to dramatically grow his small presence on Twitter to reach new audiences. He currently has around 20k followers and dreams of hitting the low six figures. On CoinLancer[^11], a popular Ethereum-based freelancing marketplace, he finds Barbara: a self-proclaimed social media guru in Chicago. Barbara advertises that for 4 ETH she can grow anyone's Twitter follower count by 100k followers within 30 days. Alfred's sold: the price per follower sounds much better than any other offer he's seen. CoinLancer’s system helps Alfred enter into a smart contract with Barbara, set to programmatically test Alfred's follower count in 30 days.
 
 30 days later, Alfred's follower count is at 125k - and rising. The test clause of the smart contract becomes active, and confirms that his follower count has surpassed the success criteria to pay out to Barbara.
 

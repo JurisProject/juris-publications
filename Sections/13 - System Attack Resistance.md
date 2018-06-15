@@ -2,7 +2,7 @@
 
 #### Sybil Attack
 
-The reputation algorithm and Repchain will make it very expensive to produce high ranked Jurists without providing value to the network. That value creates a prohibitive cost for the creation of a new users \(in good standing\) which makes a Sybil attack on the Juris protocol itself extremely difficult. \(See [Reputation Blockchains Section](/reputation.md) for more on Repchain sybil attack resistance.\)
+The reputation algorithm and Repchain will make it very expensive to produce high ranked Jurists without providing value to the network. That value creates a prohibitive cost for the creation of new users \(in good standing\) which makes a Sybil attack on the Juris protocol itself extremely difficult. \(See [Reputation Blockchains Section](/11 - The Reputation System.md) for more on Repchain sybil attack resistance.\)
 
 #### 50%+1 Attack
 

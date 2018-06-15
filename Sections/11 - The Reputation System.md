@@ -6,7 +6,7 @@ The Juris Reputation Blockchain is an evolution of existing systems with signifi
 
 In the digital realm, the problem of reputation has been tackled from many angles, and effective execution has contributed to the success of such platforms as Reddit and Stack Overflow. In real world academic and professional context, we handle the notion of reputation by issuing credentials like degrees or certificates. We track notable publications, awards, or recommendations, and we award higher degrees. In the context of justice and the law, there already exists a well worn hierarchy of certification, experience, and reputation. There are certain bars to be cleared before the practice of law is allowed, with even further hurdles to become a judge and progress from there. Because of this pre-existing system, legal reputation is an ideal first case scenario for a bespoke reputation chain implementation. We will be able to use observations regarding the movement of participants through the legal hierarchy to craft our own system, taking into account the inevitable real world variables like certification.
 
-#### Proof of judgment
+#### Proof of Judgment
 
 If Juris is to be the go-to adjudication mechanism for smart contracts, parties must have confidence that their cases are arbitrated fairly by reputable and experienced individuals. The system must allow for the on-boarding and advancement of new Jurists. But, inexperienced input on cases must not result in an unfair outcome. Additionally, in order to resist attack, the system must require a minimum demonstration of experience for a Jurist to have material impact on case outcome.
 
@@ -72,9 +72,9 @@ _Non-commodification:_ no quid pro quo. The reputation system must have barriers
 
 _Punishment:_ The system must provide for the increase _and decrease_ of reputation.
 
-_Quantity of engagement:_ Continued engagement with system must be rewarded, and lack of engagement punished.
+_Quantity of engagement:_ Continued engagement with the system must be rewarded, and lack of engagement punished.
 
-Q_uality of engagement:_ the system will measure not only the amount of engagement, but the quality and efficacy of that engagement via, among other tools, upvote/downvote systems, and peer review of opinions.
+_Quality of engagement:_ the system will measure not only the amount of engagement, but the quality and efficacy of that engagement via, among other tools, upvote/downvote systems, and peer review of opinions.
 
 #### Attack-Resistant
 
@@ -113,11 +113,11 @@ The structure of measurement in this space will take shape over time, but can be
 
 #### PANEL Peer Review
 
-PANEL's don't have as many inherent structured opportunities for Jurists to demonstrate their good judgment. They are, by their nature, much more freeform. Therefore in a PANEL, Jurists will endorse each other much more explicitly using peer review following PANEL proceedings. These peer reviews will be structured to elicit meaningful measures of endorsement, as well as feedback for the most skilled of the Jurist pool, allowing them to improve and maintain standing.
+PANELs don't have as many inherent structured opportunities for Jurists to demonstrate their good judgment. They are, by their nature, much more freeform. Therefore in a PANEL, Jurists will endorse each other much more explicitly using peer review following PANEL proceedings. These peer reviews will be structured to elicit meaningful measures of endorsement, as well as feedback for the most skilled of the Jurist pool, allowing them to improve and maintain standing.
 
 ## Graph Analysis
 
-All of these implicit or explicit "endorsements" can be used as the raw data for a directed weighted graph \(DWG\). By applying graph analytical techniques to these DWGs we can infer our \_Trust Metric. \_All of the endorsements produced during dispute mediation will be modeled as a weighted, directed graph. Rep earned will slowly 'rot' over time, ensuring that the graph remains current, and promotes ongoing engagement. By using various graph analytical techniques \(PageRank, AvoGatoTrust, EigenTrust, etc.\), we will be able to infer Jurists' Rep within the network. There is extensive academic literature on using graph analysis to infer 'trust' and 'reputation' within distributed systems. By drawing on this literature, and balancing different graph analytical techniques, we'll be able to achieve the goals set above.
+All of these implicit or explicit "endorsements" can be used as the raw data for a directed weighted graph \(DWG\). By applying graph analytical techniques to these DWGs we can infer our _Trust Metric._ All of the endorsements produced during dispute mediation will be modeled as a weighted, directed graph. Rep earned will slowly 'rot' over time, ensuring that the graph remains current, and promotes ongoing engagement. By using various graph analytical techniques \(PageRank, AvoGatoTrust, EigenTrust, etc.\), we will be able to infer Jurists' Rep within the network. There is extensive academic literature on using graph analysis to infer 'trust' and 'reputation' within distributed systems. By drawing on this literature, and balancing different graph analytical techniques, we'll be able to achieve the goals set above.
 
 /IMG_0064.jpg
 

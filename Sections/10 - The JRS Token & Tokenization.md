@@ -28,7 +28,7 @@ Digital tokenization and blockchain infrastructure allow us to rethink this dyna
 In the development of the JRS token model it is our consideration that the establishment of any sort of judicially compliant dispute resolution system must hew closer to that of a public court system, than a private company. The value captured by the system and any associated power in governance must be re-distributed to all members of the system who provide value.
 
 ### Token Functions
-While a utility token functions in a manner more akin to that of money, a security token makes no bones about being a share of stock. A utility token makes the promise that a holder will be able to use it for a specific function. A security represents ownership of a portion of a company, project, protocol, or piece of property and often includes voting rights, or profit sharing. Additionally there as arisen the notion of a "work token," which give individuals the right to contribute work, or attain work via a platform. 
+While a utility token functions in a manner more akin to that of money, a security token makes no bones about being a share of stock. A utility token makes the promise that a holder will be able to use it for a specific function. A security represents ownership of a portion of a company, project, protocol, or piece of property and often includes voting rights, or profit sharing. Additionally there has arisen the notion of a "work token," which give individuals the right to contribute work, or attain work via a platform. 
 
 Guided by the above definitions, **JRS tokens will be a hybrid model.**
 
