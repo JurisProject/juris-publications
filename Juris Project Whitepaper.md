@@ -1,6 +1,15 @@
 /assets/Cover Image.png
 
-Version 2.0 - Edit: 9-18-18
+
+
+
+
+
+
+
+
+
+**Version 2.0 - 9/18/18**
 +++
 
 ### Table of Contents
