@@ -1,6 +1,6 @@
 # Value Proposition
 
-#### An note:
+#### A note:
 _We are not building a full featured consumer facing dApp. We are building a **pick-and-shovel** tool that nearly every consumer-facing dApp will need. As a team, we will maintain transparency as we gauge the trade-offs between decentralized and traditional web infrastructure._
 
 #### Value to Decentralized App \(dApp\) Creators
