@@ -1,3 +1,4 @@
+**Section 8**
 # Current State of the Art
 
 Especially following the collapse of the DAO, the need for mediation and arbitration on blockchain-based smart contracts has spurred teams to investigate what frameworks may be developed to build this necessary part of the blockchain ecosystem. Two projects in particular serve as compelling starting points for discourse and improvement, and have been taken into consideration while developing Juris.

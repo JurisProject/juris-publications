@@ -1,16 +1,17 @@
+**Section 11**
 # The Juris Reputation System
 
 #### Background
 
 The Juris Reputation Blockchain is an evolution of existing systems with significant prior art:
 
-In the digital realm, the problem of reputation has been tackled from many angles, and effective execution has contributed to the success of such platforms as Reddit and Stack Overflow. In real world academic and professional context, we handle the notion of reputation by issuing credentials like degrees or certificates. We track notable publications, awards, or recommendations, and we award higher degrees. In the context of justice and the law, there already exists a well worn hierarchy of certification, experience, and reputation. There are certain bars to be cleared before the practice of law is allowed, with even further hurdles to become a judge and progress from there. Because of this pre-existing system, legal reputation is an ideal first case scenario for a bespoke reputation chain implementation. We will be able to use observations regarding the movement of participants through the legal hierarchy to craft our own system, taking into account the inevitable real world variables like certification.
+In the digital realm, the problem of reputation has been tackled from many angles, and effective execution has contributed to the success of such platforms as Reddit and Stack Overflow. In real world academic and professional context, we handle the notion of reputation by issuing credentials like degrees or certificates. We track notable publications, awards, or recommendations, and we award higher degrees. In the context of justice and the law, there already exists a well worn hierarchy of certification, experience, and reputation. There are certain bars to be cleared before the practice of law is allowed. And even further hurdles to become a judge and progress from there. Because of this pre-existing system, legal reputation is an ideal first case scenario for a bespoke reputation chain implementation. We will be able to use observations regarding the movement of participants through the legal hierarchy to craft our own system, taking into account the inevitable real world variables like certification and even publication.
 
 #### Proof of Judgment
 
-If Juris is to be the go-to adjudication mechanism for smart contracts, parties must have confidence that their cases are arbitrated fairly by reputable and experienced individuals. The system must allow for the on-boarding and advancement of new Jurists. But, inexperienced input on cases must not result in an unfair outcome. Additionally, in order to resist attack, the system must require a minimum demonstration of experience for a Jurist to have material impact on case outcome.
+If Juris is to be the go-to adjudication mechanism for smart contracts, parties must have confidence that their cases are arbitrated fairly by reputable and experienced individuals. The system must allow for the on-boarding and advancement of new Jurists. Still, inexperienced input on cases must not result in an unfair outcome. Additionally, in order to resist attack, the system must require a minimum demonstration of experience for a Jurist to have material impact on case outcome.
 
-This presents a challenge: how do we gauge fairness and reputability in a decentralized, anonymous, autonomous environment, while acknowledging, but not overemphasizing, proof of previous credentials? As a solution to this challenge, we propose a trust framework—a _reputation system_—tightly integrated with the Juris platform. This framework will be executed as its own blockchain, meant to establish and measure a new metric: _Proof of Judgment._
+This presents a challenge: how do we gauge fairness and reputability in a decentralized, anonymous, autonomous environment, while acknowledging, but not overemphasizing, proof of previous credentials? As a solution to this challenge, we propose a trust framework -- a reputation system -- tightly integrated with the Juris platform. This framework will be executed as its own blockchain, meant to establish and measure a new metric: -- Proof of Judgment
 
 #### Reputation Systems
 
@@ -18,13 +19,13 @@ A _reputation system_ is a program that enables a community to collaboratively d
 
 #### Trust Metrics
 
-The concept of measurable \(or computable\) trust has been studied extensively within the contexts of sociology and computer science, and is known as a _trust metric_. Defined simply, a _trust metric_ is the quantification of the emotion _Trust_. That is, the extent to which one party expects that any other party will do as they promise. However, Trust, being both abstract and subjective, has no formal or universal identity as a numerical quantity. It follows that trust metrics are proxies; they are numerical quantities that attempt to indicate the magnitude of trust between parties in a given context.
+The concept of measurable \(or computable\) trust has been studied extensively within the contexts of sociology and computer science, and is known as a _trust metric_. Defined simply, a _trust metric_ is the quantification of the emotion _Trust_. And trust is the extent to which one party expects that any other party will do as they promise. However, trust, being both abstract and subjective, has no formal or universal identity as a numerical quantity. It follows that trust metrics are proxies; they are numerical quantities that attempt to indicate the magnitude of trust between parties in a given context.
 
-The context dependence of trust metrics means that it's exceedingly difficult to directly map existing trust metrics to new systems, while retaining the original metric's meaning[^17]. Therefore, the details of our trust metric will require a lot of tuning and adjustment to the use case, and as Juris matures. Before giving detailed implementation specifics, we will define our priorities and process.
+The context dependence of trust metrics means that it's exceedingly difficult to directly map existing trust metrics to new systems, while retaining the original metric's meaning[^17]. Therefore, the details of our trust metric will require a lot of tuning and adjustment to the use case and as Juris matures. As such we will define our priorities and process before giving detailed implementation specifics.
 
-## Priorities for The Juris Repchain
+## Priorities for The Juris Reputation System
 
-Broadly, the Juris Repchain should have the following qualities:
+Broadly, the Juris Reputation System should have the following qualities:
 
 #### Useful Proxy
 
@@ -46,7 +47,7 @@ _Open:_ Rep algorithm and log of Rep-changing transactions are both public. If R
 
 **\(3\)** Earning Rep legitimately should be straightforward, although difficult.
 
-_Straightforward:_ Knowledge of the repchain's implementation is neither necessary nor advantageous for earning Rep.
+_Straightforward:_ Knowledge of the Reputation System's implementation is neither necessary nor advantageous for earning Rep.
 
 _Legitimate:_ An individual who, using a single identity, is committed to resolving smart contract disputes through the fair and impartial application of knowledge and judgment, is **earning Rep legitimately**.
 
@@ -123,10 +124,10 @@ All of these implicit or explicit "endorsements" can be used as the raw data for
 
 _Figure 11.1_
 
-## Repchain Attack Resistance
+## Reputation System Attack Resistance
 
-Simple point-based karma systems are vulnerable to many classes of attack. For example, it would be trivial to attack the Repchain by submitting fraudulent low stakes contracts and using sibyl accounts to mediate them. But, by using a graph based Rep score these fraudulent methods can be detected and factored out of the Rep calculation. A linear increase in fraudulent graph-based Rep would require an exponential increase in the size of the attack.
+Simple point-based karma systems are vulnerable to many classes of attack. For example, it would be trivial to attack the Reputation System by submitting fraudulent low stakes contracts and using sibyl accounts to mediate them. But, by using a graph based Rep score these fraudulent methods can be detected and factored out of the Rep calculation. A linear increase in fraudulent graph-based Rep would require an exponential increase in the size of the attack.
 
-Nodes mining the Repchain would preform this graph analyses as part of their Proof-of-Work. It's much easier to check the result of a graph analysis, O\(n\), than it is to preform the analysis, O\(n^3\). This makes it a good fit for distributed proof of work.
+Nodes mining the Reputation System would preform this graph analyses as part of their Proof-of-Work. It's much easier to check the result of a graph analysis, O\(n\), than it is to preform the analysis, O\(n^3\). This makes it a good fit for distributed proof of work.
 
 [^17]: [https://link.springer.com/article/10.1007/s10796-005-4807-3](https://link.springer.com/article/10.1007/s10796-005-4807-3)

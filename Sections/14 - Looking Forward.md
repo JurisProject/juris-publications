@@ -1,3 +1,4 @@
+**Section 14**
 # Looking forward
 
 #### Defensibility
@@ -8,9 +9,9 @@ Before you decide to commit your time to working on an open source project, or c
 
 First, there is great strength in the "first mover" advantage, and only more-so in the context of the creation of the associated Jurist network. Bitcoin remained the dominant medium-of-exchange crypto currency despite thousands of competitors, many of which are technically superior. If all of the interested parties commit to the first mover, everyone has more of an incentive to improve the first mover, than to jump \(alone\) to an upstart platform. Juris has this advantage. Arbitration companies like JAMS persist because they have organized a registry of certified arbitrators. Juris intends not only to begin by partnering with such companies before launch, but to increase our pool through the Repchain protocol, which will allow the onboard of new Jurists.
 
-#### The Juris Repchain
+#### The Juris Reputation System
 
-In this context, the Repchain is potentially more important for the persistence of the Juris Protocol, and the Juris Platform, than simply being the first to move. Stack Overflow was not the first place to talk about software, and Github was not the first place to distribute source code. But they are the dominant platforms today because they were a good place to develop, exhibit, and leverage a good reputation. And that reputation is only tangentially portable to other networks. This is the Juris Protocol's long term strength. Though most of the utility will be derived from open source software, the Juris master implementation will continue to thrive because of the power of the Proof of Judgment-based reputation system -- a novel innovation.
+In this context, the Reputation System is potentially more important for the persistence of the Juris Protocol, and the Juris Platform, than simply being the first to move. Stack Overflow was not the first place to talk about software, and Github was not the first place to distribute source code. But they are the dominant platforms today because they were a good place to develop, exhibit, and leverage a good reputation. And that reputation is only tangentially portable to other networks. This is the Juris Protocol's long term strength. Though most of the utility will be derived from open source software, the Juris master implementation will continue to thrive because of the power of the Proof of Judgment-based reputation system -- a novel innovation.
 
 #### Jurists
 
@@ -34,11 +35,11 @@ In this context, with minimal repurposing, the Juris Platform could provide a so
 
 #### Content Moderation
 
-> "Sometimes there are disputes between people... sometimes we have to adjudicate those disputes… what I’d like to get to is an independent appeal... almost like a Supreme Court or appeals board." 
+> "Sometimes there are disputes between people... sometimes we have to adjudicate those disputes... what I’d like to get to is an independent appeal... almost like a Supreme Court or appeals board." 
 > - Mark Zuckerberg
 
-As of this writing, Facebook continues to be embroiled in a new phase of social media network scale: public scrutiny. This is the result of reaching a scale at which unique problems are emerging. As Zuckerberg himself likes to point out, they are very much problems more akin to those of governments, than software platforms. 
+As of this writing, Facebook continues to be embroiled in a new phase of social media network scale: public scrutiny. This is the result of reaching a scale at which unique problems are emerging.  
 
-There have been hearings, and headlines, and podcast appearance. In a number of these appearances Facebook Founder and CEO, Mark Zuckerberg has mention the above, the need for "a Supreme Court or appeals board." And he doesn't want it to be part of Facebook. If only for liability purposes, Facebook needs this system to be independent.
+There have been hearings, and headlines, and podcast appearances. In a number of these appearances Zuckerberg has mention the above, the need for "a Supreme Court or appeals board." And he doesn't want it to be part of Facebook. If only for liability purposes, Facebook needs this system to be independent. As Zuckerberg himself likes to point out, they are very much problems more akin to those of governments, than software platforms.
 
-When it comes to content moderation, these disputes, and conflicts are of a difficult nature, but one that Juris will have a platform apt to handle. In the United States law around the First Amendment and "indecent speech" frequently boils down to notions of "community standards." Making decisions based on these standards, and at the "community" level sure sounds like a job for the SNAP protocol (maybe with a geo-fence filter.)
+When it comes to content moderation, these disputes, and conflicts are of a difficult nature, but one that Juris will have a platform apt to handle. In the United States law around the First Amendment and "indecent speech" frequently boils down to notions of "community standards." Making decisions based on these standards, and at the "community" level sure sounds like a job for a SNAP-like protocol (maybe with a geo-fence filter.)

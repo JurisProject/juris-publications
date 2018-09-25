@@ -1,3 +1,4 @@
+**Section 7**
 # Real World Juris Use
 
 To illustrate how Juris will work in the real world, here are a few stories:

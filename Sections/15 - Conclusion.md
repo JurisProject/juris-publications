@@ -1,3 +1,4 @@
+**Section 15**
 # Conclusion
 
 > No freemen shall be taken or imprisoned or disseised or exiled or in any way destroyed, nor will we go upon him nor send upon him, except by the lawful judgment of his peers or by the law of the land. 

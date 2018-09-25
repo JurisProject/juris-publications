@@ -1,3 +1,4 @@
+**Section 6 **
 # Non-Technical Overview
 
 #### The Protocol

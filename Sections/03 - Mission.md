@@ -1,3 +1,4 @@
+**Section 3**
 # The Juris Mission
 
 1. To make smart contracts on any blockchain safe, robust, human, legally enforceable, and open source.

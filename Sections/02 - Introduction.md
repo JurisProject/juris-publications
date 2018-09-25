@@ -1,4 +1,5 @@
-# Calamity on the Blockchain: an Introduction
+**Section 2** 
+# Calamity on the blockchain: an Introduction
 
 In May 2016, the DAO, or “Decentralized Autonomous Organization” launched the largest crowdfunding campaign in history.[^1] Not merely the larges on the Ethereum Blockchain -- but **ever**. They raised 150 million dollars worth of Ether by the end of 28 days. But their success was short lived: on June 17th, 2016, we saw what happens when the intention behind a “Smart Contract” diverges from its codified implementation. Several errors inside the smart contract code written by the DAO team allowed a single bad actor to drain 50 million dollars worth of Ether from the DAO wallets overnight. The remainder of the funds were saved only because a group of “white hat” hackers moved them to a friendly wallet by exploiting the same errors.
 

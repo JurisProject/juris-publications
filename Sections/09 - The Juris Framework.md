@@ -1,3 +1,4 @@
+**Section 9**
 # The Juris Framework
 
 #### Dispute Triggers
@@ -84,7 +85,7 @@ _Based on UNCITRAL Arbitration Rules_[^16]
 
 **Problem it solves:** While the SNAP procedure provides assistance in dispute resolution, it does not rise to the level of due process required for a binding judgment under United Nations standards. Disputes reaching this level will be complex, will have a lot at stake, or will require binding legal resolution. UN rules thus require a small number of people to take their time examining all of the evidence, and hearing all of the arguments.
 
-**How JRS moves:** The party\(s\) to the contract requesting the PANEL pay the market rate in JRS to convene a panel. 5% of that fee goes to the Foundation, the rest is split equally amongst the Jurists on the panel at the close of proceedings.
+**How JRS moves:** The party\(s\) to the contract requesting the PANEL pay the market rate in JRS (or other token or fee structure) to convene a panel. All fees are split equally amongst the Jurists on the panel at the close of proceedings.
 
 **From the parties' perspective:** For complex disputes that require deep attention of the most skilled jurists, or to break a deadlock with a final and legally binding decision, it’s worth paying for a PANEL.
 
