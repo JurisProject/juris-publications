@@ -11,7 +11,7 @@ In the digital realm, the problem of reputation has been tackled from many angle
 
 If Juris is to be the go-to adjudication mechanism for smart contracts, parties must have confidence that their cases are arbitrated fairly by reputable and experienced individuals. The system must allow for the on-boarding and advancement of new Jurists. Still, inexperienced input on cases must not result in an unfair outcome. Additionally, in order to resist attack, the system must require a minimum demonstration of experience for a Jurist to have material impact on case outcome.
 
-This presents a challenge: how do we gauge fairness and reputability in a decentralized, anonymous, autonomous environment, while acknowledging, but not overemphasizing, proof of previous credentials? As a solution to this challenge, we propose a trust framework -- a reputation system -- tightly integrated with the Juris platform. This framework will be executed as its own blockchain, meant to establish and measure a new metric: -- Proof of Judgment
+This presents a challenge: how do we gauge fairness and reputability in a decentralized, anonymous, autonomous environment, while acknowledging, but not overemphasizing proof of previous credentials? As a solution to this challenge, we propose a trust framework - a reputation system - tightly integrated with the Juris platform. This framework will be executed as its own blockchain, meant to establish and measure a new metric: Proof of Judgment.
 
 #### Reputation Systems
 
@@ -128,6 +128,6 @@ _Figure 11.1_
 
 Simple point-based karma systems are vulnerable to many classes of attack. For example, it would be trivial to attack the Reputation System by submitting fraudulent low stakes contracts and using sibyl accounts to mediate them. But, by using a graph based Rep score these fraudulent methods can be detected and factored out of the Rep calculation. A linear increase in fraudulent graph-based Rep would require an exponential increase in the size of the attack.
 
-Nodes mining the Reputation System would preform this graph analyses as part of their Proof-of-Work. It's much easier to check the result of a graph analysis, O\(n\), than it is to preform the analysis, O\(n^3\). This makes it a good fit for distributed proof of work.
+Nodes mining the Reputation System would perform this graph analyses as part of their Proof-of-Work. It's much easier to check the result of a graph analysis, O\(n\), than it is to perform the analysis, O\(n^3\). This makes it a good fit for distributed proof of work.
 
 [^17]: [https://link.springer.com/article/10.1007/s10796-005-4807-3](https://link.springer.com/article/10.1007/s10796-005-4807-3)
